@@ -3,3 +3,6 @@
   height: 471px;
 }
 
+@media (max-width:500px) {
+    background-image: none;
+}
