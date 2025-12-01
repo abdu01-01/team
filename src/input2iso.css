@@ -3,6 +3,9 @@
   height: 471px;
 }
 
-@media (max-width:500px) {
+@media (max-width: 500px) {
+  .background_last {
     background-image: none;
+    height: 0;
+  }
 }
